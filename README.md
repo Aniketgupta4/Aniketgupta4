@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 Aniket Gupta
 Hello! I'm ANIKET GUPTA , a passionate full stack web developer proficient in HTML5 | CSS3 | JavaScript | Bootstrap | Tailwind CSS & MERN .
 
 
