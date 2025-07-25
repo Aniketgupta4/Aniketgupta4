@@ -69,10 +69,10 @@ I love building full-stack web applications and aim to become a **skilled Softwa
 ---
 
 <p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=Aniketgupta4&icon=0&color=9" alt="visitor badge"/>
+  THANK-you
 </p>
 
 ---
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
 
