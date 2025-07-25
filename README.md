@@ -1,27 +1,78 @@
-# 💫 About Me:
-I am Aniket Gupta. a MERN Stack Developer , aspiring to become a Software Engineer. I am a 2nd year student, currently pursuing my BTech CSE from Shriram Institute of Technology. <br><br> Set:<br> Programming: Java (DSA),C, C++, PHP, Python(NPMS). <br> Frontend: HTML, CSS, JavaScript, Bootstrap, <br> TailwindCss. <br> Backend: MERN (MongoDB,Express.js,React.js, <br> Node.js), Redux. <br> Databases: MySQL, MongoDB.<br> Version Control: Git & Github. <br> Other skills: AI Tools, UI & <br> UX, Graphic designing, Material UI, PowerBi , Tableau , Typescript.<br><br> Development to use my skills and experience for the best.
+<h1 align="center">💫 About Me</h1>
 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&lines=Hi+👋,+I'm+Aniket+Gupta;MERN+Stack+Developer;2nd+Year+B.Tech+CSE+Student;Aspiring+Software+Engineer" alt="Typing SVG" />
+</p>
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/gupta-aniket5/) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@https://youtube.com/@tech_aniket?si=eylCSfiF42FtQ0ec) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:aniketkumargupta302@gmail.com) 
-
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=flat&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=flat&logo=render&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=flat&logo=bootstrap&logoColor=white) ![EJS](https://img.shields.io/badge/ejs-%23B4CA65.svg?style=flat&logo=ejs&logoColor=black) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB) ![Next JS](https://img.shields.io/badge/Next-black?style=flat&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=flat&logo=npm&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=flat&logo=react-router&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=flat&logo=SASS&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=flat&logo=vite&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=flat&logo=plotly&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=flat&logo=jira&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=flat&logo=powerbi&logoColor=black) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Aniketgupta4&theme=catppuccin_mocha&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Aniketgupta4&theme=catppuccin_mocha&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Aniketgupta4&theme=catppuccin_mocha&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Aniketgupta4&theme=blue-green&no-frame=false&no-bg=true&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Aniketgupta4&limit=5&theme=neon&combine_all_yearly_contributions=true)
+I’m **Aniket Gupta**, a passionate **MERN Stack Developer** and a 2nd-year **B.Tech CSE** student at **Shriram Institute of Technology**.  
+I love building full-stack web applications and aim to become a **skilled Software Engineer**.
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Aniketgupta4&icon=0&color=9)](https://visitcount.itsvg.in)
+
+### ⚙️ Tech Stack
+- **Programming:** Java (DSA), C, C++, PHP, Python (NumPy, Pandas, etc.)
+- **Frontend:** HTML, CSS, JavaScript, Bootstrap, TailwindCSS
+- **Backend:** Node.js, Express.js, MongoDB, React.js, Redux
+- **Databases:** MySQL, MongoDB
+- **Tools & Platforms:** Git, GitHub, Postman, Docker, Jira
+- **Design/Analytics:** Figma, UI/UX, Material UI, Power BI, Tableau
+- **Other:** TypeScript, EJS, Next.js, AI Tools
+
+---
+
+## 🌐 Connect With Me:
+<p align="left">
+  <a href="https://www.linkedin.com/in/gupta-aniket5/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:aniketkumargupta302@gmail.com" target="_blank"><img alt="Gmail" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://youtube.com/@tech_aniket" target="_blank"><img alt="YouTube" src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white"/></a>
+</p>
+
+---
+
+## 💻 Tech & Tools
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,php,html,css,js,ts,react,nextjs,nodejs,express,mongodb,mysql,tailwind,bootstrap,ejs,redux,git,github,postman,docker,figma,vite,materialui,linux,vercel,vscode,powershell,tableau,powerbi,render,npm,jira" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Aniketgupta4&theme=catppuccin_mocha&hide_border=false&include_all_commits=true&count_private=true" />
+  <br>
+  <img src="https://nirzak-streak-stats.vercel.app/?user=Aniketgupta4&theme=catppuccin_mocha&hide_border=false" />
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aniketgupta4&theme=catppuccin_mocha&hide_border=false&layout=compact" />
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Aniketgupta4&theme=blue-green&no-frame=false&no-bg=true&margin-w=4" />
+</p>
+
+---
+
+### ✍️ Dev Quote
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko" />
+</p>
+
+---
+
+### 🔝 Top Contributed Repos
+<p align="center">
+  <img src="https://github-contributor-stats.vercel.app/api?username=Aniketgupta4&limit=5&theme=neon&combine_all_yearly_contributions=true" />
+</p>
+
+---
+
+<p align="center">
+  <img src="https://visitcount.itsvg.in/api?id=Aniketgupta4&icon=0&color=9" alt="visitor badge"/>
+</p>
+
+---
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
