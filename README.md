@@ -4,7 +4,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&lines=Hi+👋,+I'm+Aniket+Gupta;MERN+Stack+Developer;2nd+Year+B.Tech+CSE+Student;Aspiring+Software+Engineer" alt="Typing SVG" />
 </p>
 
-I’m **Aniket Gupta**, a passionate **MERN Stack Developer** and a 2nd-year **B.Tech CSE** student at **Shriram Institute of Technology**.  
+I’m **Aniket Gupta**, a passionate **MERN Stack Developer** and a 3rd-year **B.Tech CSE** student at **Shriram Institute of Technology**.  
 I love building full-stack web applications and aim to become a **skilled Software Engineer**.
 
 ---
