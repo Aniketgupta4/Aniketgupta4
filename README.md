@@ -1,7 +1,7 @@
 <h1 align="center">💫 About Me</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&lines=Hi+👋,+I'm+Aniket+Gupta;MERN+Stack+Developer;2nd+Year+B.Tech+CSE+Student;Aspiring+Software+Engineer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&lines=Hi+👋,+I'm+Aniket+Gupta;MERN+Stack+Developer;3rd+Year+B.Tech+CSE+Student;Aspiring+Software+Engineer" alt="Typing SVG" />
 </p>
 
 I’m **Aniket Gupta**, a passionate **MERN Stack Developer** and a 3rd-year **B.Tech CSE** student at **Shriram Institute of Technology**.  
