@@ -57,6 +57,20 @@ I love building full-stack web applications and aim to become a **skilled Softwa
 
 ---
 
+## 🧠 LeetCode Progress
+
+<p align="center">
+  <!-- LeetCode 50 Days Streak Badge -->
+  <img src="https://img.shields.io/badge/LeetCode%20Streak-50%20Days-orange?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode 50 Days Streak" />
+  <br><br>
+  <!-- LeetCode Stats Card -->
+  <a href="https://leetcode.com/Aniketgupta4/" target="_blank">
+    <img src="https://leetcard.jacoblin.cool/Aniketgupta4?theme=dark&font=Karma&ext=heatmap" alt="LeetCode Stats"/>
+  </a>
+</p>
+
+---
+
 ## 🏆 GitHub Trophies
 
 <p align="center">
@@ -86,8 +100,3 @@ I love building full-stack web applications and aim to become a **skilled Softwa
 </p>
 
 ---
-
-
-
-
-
