@@ -4,26 +4,28 @@
   <img src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&lines=Hi+👋,+I'm+Aniket+Gupta;MERN+Stack+Developer;3rd+Year+B.Tech+CSE+Student;Aspiring+Software+Engineer" alt="Typing SVG" />
 </p>
 
-I’m **Aniket Gupta**, a passionate **MERN Stack Developer** and a 3rd-year **B.Tech CSE** student at **Shriram Institute of Technology**.  
-I love building full-stack web applications and aim to become a **skilled Software Engineer**.
+<p align="center">
+I’m <strong>Aniket Gupta</strong>, a passionate <strong>MERN Stack Developer</strong> and a 3rd-year <strong>B.Tech CSE</strong> student at <strong>Shriram Institute of Technology</strong>.<br>
+I love building full-stack web applications and aim to become a <strong>skilled Software Engineer</strong>.
+</p>
 
 ---
 
-### ⚙️ Tech Stack
+## ⚙️ Tech Stack
 
-- **Programming:** Java (DSA), C, C++, PHP, Python (NumPy, Pandas, etc.)
+- **Programming:** Java (DSA), C, C++, PHP, Python (NumPy, Pandas)
 - **Frontend:** HTML, CSS, JavaScript, Bootstrap, TailwindCSS
 - **Backend:** Node.js, Express.js, MongoDB, React.js, Redux
 - **Databases:** MySQL, MongoDB
 - **Tools & Platforms:** Git, GitHub, Postman, Docker, Jira
-- **Design/Analytics:** Figma, UI/UX, Material UI, Power BI, Tableau
+- **Design & Analytics:** Figma, UI/UX, Material UI, Power BI, Tableau
 - **Other:** TypeScript, EJS, Next.js, AI Tools
 
 ---
 
 ## 🌐 Connect With Me
 
-<p align="left">
+<p align="center">
   <a href="https://www.linkedin.com/in/gupta-aniket5/" target="_blank">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
@@ -45,13 +47,13 @@ I love building full-stack web applications and aim to become a **skilled Softwa
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Stats & Activity
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Aniketgupta4&theme=catppuccin_mocha&hide_border=false&include_all_commits=true&count_private=true" />
-  <br>
+  <br><br>
   <img src="https://nirzak-streak-stats.vercel.app/?user=Aniketgupta4&theme=catppuccin_mocha&hide_border=false" />
-  <br>
+  <br><br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aniketgupta4&theme=catppuccin_mocha&hide_border=false&layout=compact" />
 </p>
 
@@ -60,15 +62,12 @@ I love building full-stack web applications and aim to become a **skilled Softwa
 ## 🧠 LeetCode Progress
 
 <p align="center">
-  <!-- LeetCode 50 Days Milestone Badge -->
   <img src="https://img.shields.io/badge/LeetCode%20Streak-50%20Days-orange?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode 50 Days Streak" />
   <br><br>
-  <!-- LeetCode Stats Card (live data) -->
   <a href="https://leetcode.com/u/Aniket_gupta_/" target="_blank">
-    <img src="https://leetcard.jacoblin.cool/Aniket_gupta_?theme=dark&font=Karma&ext=heatmap" alt="LeetCode Stats"/>
+    <img src="https://leetcard.jacoblin.cool/Aniket_gupta_?theme=dark&font=Karma&ext=heatmap" alt="LeetCode Stats" />
   </a>
 </p>
-
 
 ---
 
@@ -80,7 +79,7 @@ I love building full-stack web applications and aim to become a **skilled Softwa
 
 ---
 
-### ✍️ Dev Quote
+## ✍️ Dev Quote
 
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko" />
@@ -88,7 +87,7 @@ I love building full-stack web applications and aim to become a **skilled Softwa
 
 ---
 
-### 🔝 Top Contributed Repos
+## 🔝 Top Contributed Repos
 
 <p align="center">
   <img src="https://github-contributor-stats.vercel.app/api?username=Aniketgupta4&limit=5&theme=neon&combine_all_yearly_contributions=true" />
@@ -97,7 +96,7 @@ I love building full-stack web applications and aim to become a **skilled Softwa
 ---
 
 <p align="center">
-  <strong>THANK YOU ❤️ FOR VISITING MY PROFILE</strong>
+  <strong>💖 THANK YOU FOR VISITING MY PROFILE 💖</strong>
 </p>
 
 ---
