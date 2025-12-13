@@ -1,33 +1,117 @@
-<h1 align="center">🚀 Aniket Gupta | Software Engineer</h1>
+<h1 align="center">💫 About Me</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&width=700&lines=Hi+👋,+I'm+Aniket+Gupta;MERN+Stack+Developer;Backend+Focused+Engineer;DSA+%7C+System+Design+Enthusiast;Aspiring+Software+Engineer" />
+  <img src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&lines=Hi+👋,+I'm+Aniket+Gupta;MERN+Stack+Developer;3rd+Year+B.Tech+CSE+Student;Aspiring+Software+Engineer" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <strong>Building scalable web applications • Writing clean backend logic • Solving DSA problems</strong>
+I’m <strong>Aniket Gupta</strong>, a passionate <strong>MERN Stack Developer</strong> and a 3rd-year <strong>B.Tech CSE</strong> student at <strong>Shriram Institute of Technology</strong>.<br>
+I love building full-stack web applications and aim to become a <strong>skilled Software Engineer</strong>.
 </p>
 
 ---
 
-## 👨‍💻 Professional Summary
+## ⚙️ Tech Stack Overview
 
-I’m <strong>Aniket Gupta</strong>, a <strong>MERN Stack Developer</strong> and 3rd-year <strong>B.Tech CSE</strong> student at  
-<strong>Shriram Institute of Technology</strong>.
+### 🧠 Programming Languages
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,php,ts,js" />
+</p>
 
-- 🔹 Strong foundation in <strong>Data Structures & Algorithms (Java)</strong>  
-- 🔹 Experienced in <strong>Full-Stack & Backend Development</strong>  
-- 🔹 Passionate about <strong>clean code, scalability & performance</strong>  
-- 🔹 Actively preparing for <strong>Software Engineer roles</strong>  
+### 🎨 Frontend Technologies
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,redux,tailwind,bootstrap,materialui,vite" />
+</p>
+
+### 🛠️ Backend Technologies
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,ejs" />
+</p>
+
+### 🗄️ Databases
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql" />
+</p>
+
+### ⚡ Tools & Platforms
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,postman,docker,linux,npm,vercel,render,vscode,powershell,jira" />
+</p>
+
+### 📊 Design & Analytics
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=figma" />
+  <br><br>
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
+</p>
 
 ---
 
-## 🧠 Core Skills Snapshot
+## 🌐 Connect With Me
 
-```text
-✔ Data Structures & Algorithms (Java)
-✔ RESTful API Design & Development
-✔ Authentication & Authorization (JWT, Sessions)
-✔ MVC Architecture & Clean Code Practices
-✔ Database Design & Optimization
-✔ Git, Deployment & CI/CD Basics
+<p align="center">
+  <a href="https://www.linkedin.com/in/gupta-aniket5/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:aniketkumargupta302@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://youtube.com/@tech_aniket" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+## 📊 GitHub Stats & Activity
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Aniketgupta4&theme=catppuccin_mocha&show_icons=true&count_private=true" />
+  <br><br>
+  <img src="https://nirzak-streak-stats.vercel.app/?user=Aniketgupta4&theme=catppuccin_mocha" />
+  <br><br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aniketgupta4&layout=compact&theme=catppuccin_mocha" />
+</p>
+
+---
+
+## 🧠 LeetCode Progress
+
+<p align="center">
+  <img src="https://img.shields.io/badge/LeetCode%20Streak-50%20Days-orange?style=for-the-badge&logo=leetcode&logoColor=white" />
+  <br><br>
+  <a href="https://leetcode.com/u/Aniket_gupta_/" target="_blank">
+    <img src="https://leetcard.jacoblin.cool/Aniket_gupta_?theme=dark&font=Karma&ext=heatmap" />
+  </a>
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Aniketgupta4&theme=algolia&margin-w=10" />
+</p>
+
+---
+
+## ✍️ Dev Quote
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko" />
+</p>
+
+---
+
+## 🔝 Top Contributed Repositories
+
+<p align="center">
+  <img src="https://github-contributor-stats.vercel.app/api?username=Aniketgupta4&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" />
+</p>
+
+---
+
+<p align="center">
+  <strong>💖 THANK YOU FOR VISITING MY PROFILE 💖</strong>
+</p>
