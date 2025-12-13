@@ -1,21 +1,19 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header"/>
-
 <h1 align="center">💫 About Me</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&width=720&lines=Hi+👋,+I'm+Aniket+Gupta;MERN+Stack+Developer;DSA+with+Java;Data+Science+%26+Analytics;Aspiring+Software+Engineer" />
+  <img src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&width=720&lines=Hi+👋,+I'm+Aniket+Gupta;MERN+Stack+Developer;DSA+with+Java;3rd+Year+B.Tech+CSE+Student;Aspiring+Software+Engineer" />
 </p>
 
 <p align="center">
-  I’m <strong>Aniket Gupta</strong>, a passionate <strong>MERN Stack Developer</strong> and a
-  3rd-year <strong>B.Tech CSE</strong> student at <strong>Shriram Institute of Technology</strong>.<br>
-  I love building scalable full-stack web applications, solving <strong>DSA using Java</strong>,
-  and working with <strong>data analytics</strong>.
+I’m <strong>Aniket Gupta</strong>, a passionate <strong>MERN Stack Developer</strong> and a 3rd-year 
+<strong>B.Tech CSE</strong> student at <strong>Shriram Institute of Technology</strong>.<br>
+I enjoy building scalable full-stack applications, solving <strong>DSA using Java</strong>,
+and continuously improving my problem-solving skills.
 </p>
 
 ---
 
-## ⚙️ Tech Stack Overview
+## ⚙️ Tech Stack
 
 ### 🧠 Programming Languages
 <p align="center">
@@ -29,7 +27,7 @@
 
 ### 🛠️ Backend Development
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,ejs" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,ejs,mongodb" />
 </p>
 
 ### 🗄️ Databases
@@ -37,19 +35,16 @@
   <img src="https://skillicons.dev/icons?i=mongodb,mysql" />
 </p>
 
-### 📊 Data Science & Analytics
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python" />
-  <br><br>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
-</p>
-
 ### ⚡ Tools & Platforms
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,postman,docker,linux,npm,vercel,render,vscode,powershell,jira,figma" />
+  <img src="https://skillicons.dev/icons?i=git,github,postman,docker,linux,npm,vercel,render,vscode,jira,figma,powershell" />
+</p>
+
+### 📊 Design & Analytics
+<p align="center">
+  <img src="https://img.shields.io/badge/Figma-000000?style=for-the-badge&logo=figma&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
 </p>
 
 ---
@@ -85,7 +80,7 @@
 ## 🧠 LeetCode Progress
 
 <p align="center">
-  <img src="https://img.shields.io/badge/LeetCode%20Solved-250%2B-success?style=for-the-badge&logo=leetcode&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LeetCode%20Streak-50%20Days-orange?style=for-the-badge&logo=leetcode&logoColor=white"/>
   <br><br>
   <a href="https://leetcode.com/u/Aniket_gupta_/" target="_blank">
     <img src="https://leetcard.jacoblin.cool/Aniket_gupta_?theme=dark&font=Karma&ext=heatmap"/>
@@ -97,7 +92,7 @@
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Aniketgupta4&theme=blue-green&margin-w=6"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Aniketgupta4&theme=blue-green&margin-w=4" />
 </p>
 
 ---
@@ -105,15 +100,15 @@
 ## ✍️ Dev Quote
 
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko"/>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko" />
 </p>
 
 ---
 
-## 🔝 Top Contributed Repositories
+## 🔝 Top Contributed Repos
 
 <p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=Aniketgupta4&limit=5&theme=neon&combine_all_yearly_contributions=true"/>
+  <img src="https://github-contributor-stats.vercel.app/api?username=Aniketgupta4&limit=5&theme=neon&combine_all_yearly_contributions=true" />
 </p>
 
 ---
@@ -121,5 +116,3 @@
 <p align="center">
   <strong>💖 THANK YOU FOR VISITING MY PROFILE 💖</strong>
 </p>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
