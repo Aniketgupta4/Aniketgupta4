@@ -1,14 +1,17 @@
-<h1 align="center">💫 About Me</h1>
+<h1>💫 About Me</h1>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&width=720&lines=Hi+👋,+I'm+Aniket+Gupta;MERN+Stack+Developer;DSA+with+Java;3rd+Year+B.Tech+CSE+Student;Aspiring+Software+Engineer" />
-</p>
+<ul>
+  <li>👨‍💻 <strong>Name:</strong> Aniket Gupta</li>
+  <li>🎓 <strong>Education:</strong> 3rd Year B.Tech (CSE) – Shriram Institute of Technology</li>
+  <li>🚀 <strong>Role:</strong> MERN Stack Developer & Aspiring Software Engineer</li>
+  <li>🧠 <strong>Core Strength:</strong> DSA with Java (250+ LeetCode Problems Solved)</li>
+  <li>📊 <strong>Additional Skills:</strong> Data Science & Data Analytics</li>
+  <li>🌱 <strong>Currently Improving:</strong> System Design, Backend Scalability & Advanced DSA</li>
+  <li>📫 <strong>Email:</strong> aniketkumargupta302@gmail.com</li>
+</ul>
 
-<p align="center">
-I’m <strong>Aniket Gupta</strong>, a passionate <strong>MERN Stack Developer</strong> and a 3rd-year 
-<strong>B.Tech CSE</strong> student at <strong>Shriram Institute of Technology</strong>.<br>
-I enjoy building scalable full-stack applications, solving <strong>DSA using Java</strong>,
-and continuously improving my problem-solving skills.
+<p>
+  <img src="https://readme-typing-svg.herokuapp.com?vCenter=true&width=720&lines=Hi+👋,+I'm+Aniket+Gupta;MERN+Stack+Developer;DSA+with+Java+%7C+250%2B+LeetCode;Data+Science+%26+Analytics;Aspiring+Software+Engineer" />
 </p>
 
 ---
@@ -16,103 +19,89 @@ and continuously improving my problem-solving skills.
 ## ⚙️ Tech Stack
 
 ### 🧠 Programming Languages
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java,c,cpp,python,php,js,ts" />
-</p>
+<img src="https://skillicons.dev/icons?i=java,c,cpp,python,php,js,ts" />
+
+---
 
 ### 🎨 Frontend Development
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,redux,tailwind,bootstrap,materialui,vite" />
-</p>
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,redux,tailwind,bootstrap,materialui,vite" />
+
+---
 
 ### 🛠️ Backend Development
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,ejs,mongodb" />
-</p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,ejs,mongodb,graphql" />
+
+---
 
 ### 🗄️ Databases
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql" />
-</p>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,redis" />
 
-### ⚡ Tools & Platforms
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,postman,docker,linux,npm,vercel,render,vscode,jira,figma,powershell" />
-</p>
+---
 
-### 📊 Design & Analytics
-<p align="center">
-  <img src="https://img.shields.io/badge/Figma-000000?style=for-the-badge&logo=figma&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
-</p>
+### 📊 Data Science & Analytics
+<img src="https://skillicons.dev/icons?i=python" />
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+<img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
+
+---
+
+### ⚡ Tools, Platforms & DevOps
+<img src="https://skillicons.dev/icons?i=git,github,postman,docker,linux,npm,vercel,render,aws,vscode,jira,figma,powershell" />
 
 ---
 
 ## 🌐 Connect With Me
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/gupta-aniket5/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:aniketkumargupta302@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://youtube.com/@tech_aniket" target="_blank">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
-  </a>
-</p>
+<a href="https://www.linkedin.com/in/gupta-aniket5/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="mailto:aniketkumargupta302@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+<a href="https://youtube.com/@tech_aniket" target="_blank">
+  <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
+</a>
 
 ---
 
 ## 📊 GitHub Stats & Activity
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Aniketgupta4&theme=catppuccin_mocha&show_icons=true&count_private=true" />
-  <br><br>
-  <img src="https://nirzak-streak-stats.vercel.app/?user=Aniketgupta4&theme=catppuccin_mocha" />
-  <br><br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aniketgupta4&layout=compact&theme=catppuccin_mocha" />
-</p>
+<img src="https://github-readme-stats.vercel.app/api?username=Aniketgupta4&theme=catppuccin_mocha&show_icons=true&count_private=true" />
+<br><br>
+<img src="https://nirzak-streak-stats.vercel.app/?user=Aniketgupta4&theme=catppuccin_mocha" />
+<br><br>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aniketgupta4&layout=compact&theme=catppuccin_mocha" />
 
 ---
 
 ## 🧠 LeetCode Progress
 
-<p align="center">
-  <img src="https://img.shields.io/badge/LeetCode%20Streak-50%20Days-orange?style=for-the-badge&logo=leetcode&logoColor=white"/>
-  <br><br>
-  <a href="https://leetcode.com/u/Aniket_gupta_/" target="_blank">
-    <img src="https://leetcard.jacoblin.cool/Aniket_gupta_?theme=dark&font=Karma&ext=heatmap"/>
-  </a>
-</p>
+<img src="https://img.shields.io/badge/LeetCode-250%2B%20Problems%20Solved-orange?style=for-the-badge&logo=leetcode&logoColor=white"/>
+<br><br>
+<a href="https://leetcode.com/u/Aniket_gupta_/" target="_blank">
+  <img src="https://leetcard.jacoblin.cool/Aniket_gupta_?theme=dark&font=Karma&ext=heatmap"/>
+</a>
 
 ---
 
 ## 🏆 GitHub Trophies
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Aniketgupta4&theme=blue-green&margin-w=4" />
-</p>
+<img src="https://github-profile-trophy.vercel.app/?username=Aniketgupta4&theme=blue-green&margin-w=4" />
 
 ---
 
 ## ✍️ Dev Quote
 
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko" />
-</p>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko" />
 
 ---
 
 ## 🔝 Top Contributed Repos
 
-<p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=Aniketgupta4&limit=5&theme=neon&combine_all_yearly_contributions=true" />
-</p>
+<img src="https://github-contributor-stats.vercel.app/api?username=Aniketgupta4&limit=5&theme=neon&combine_all_yearly_contributions=true" />
 
 ---
 
-<p align="center">
-  <strong>💖 THANK YOU FOR VISITING MY PROFILE 💖</strong>
-</p>
+<strong>💖 THANK YOU FOR VISITING MY PROFILE 💖</strong>
