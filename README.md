@@ -1,126 +1,112 @@
-<h1 align="center">💫 About Me</h1>
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=700&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Aniket+Gupta!;MERN+Stack+Developer;Data+Science+%26+Analytics+Enthusiast;" />
+</h1>
 
-<p align="center">
-  <img
-    src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&width=780&lines=Hi+👋,+I'm+Aniket+Gupta;MERN+Stack+Developer;Data+Science+%26+Analytics+Enthusiast;Backend+Focused+Engineer;3rd+Year+B.Tech+CSE+Student;Aspiring+Software+Engineer"
-    alt="Typing SVG"
-  />
-</p>
+<div align="center">
+  <h3>🚀 MERN Stack Developer | Backend Engineer | Data Science & Analytics 🚀</h3>
+</div>
 
-<p align="center">
-  I’m <strong>Aniket Gupta</strong>, a passionate <strong>MERN Stack Developer</strong> with a strong interest in
-  <strong>Data Science & Analytics</strong>, and a 3rd-year <strong>B.Tech CSE</strong> student at
-  <strong>Shriram Institute of Technology</strong>.<br>
-  I enjoy building scalable full-stack applications, working with data to extract insights,
-  and solving <strong>DSA problems</strong>.
-</p>
+<div align="center">
+
+![Profile Views](https://komarev.com/ghpvc/?username=Aniketgupta4&style=flat-square&color=blue)
+![GitHub Followers](https://img.shields.io/github/followers/Aniketgupta4?style=social)
+![GitHub Stars](https://img.shields.io/github/stars/Aniketgupta4?style=social)
+
+</div>
 
 ---
 
-## 🚀 Quick Highlights
+## 👨‍💻 About Me
 
-- 💻 MERN Stack Developer (Backend-Oriented)
-- 📊 Data Science & Analytics (Python, Pandas, NumPy, Power BI, Tableau)
-- 🧠 Strong in Java & Data Structures
-- 📈 Solved <strong>250+ DSA / LeetCode problems</strong>
-- 🌱 Learning System Design & Advanced Backend
-- 🎯 Goal: Software Engineer (Product-Based Companies)
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300"/>
+</p>
+
+I’m **Aniket Gupta**, a passionate **MERN Stack Developer** and **Data Science & Analytics enthusiast**, currently a **3rd-year B.Tech CSE student** at **Shriram Institute of Technology**.  
+I love building scalable backend systems, working with data to extract insights, and solving **DSA problems**.
+
+- 🔭 Currently working on **Full Stack & Backend Projects**
+- 🌱 Learning **System Design, Advanced Backend & Data Analytics**
+- 👯 Open to collaborate on **Open Source & MERN Projects**
+- 💬 Ask me about **Java, DSA, Node.js, MongoDB, Data Analysis**
+- 📊 Solved **250+ DSA / LeetCode problems**
+- ⚡ Fun fact: I enjoy building **visualizers & real-world systems**
 
 ---
 
 ## ⚙️ Tech Stack
 
-- **Programming:** Java (DSA), C, C++, Python (NumPy, Pandas), PHP
-- **Frontend:** HTML, CSS, JavaScript, Bootstrap, TailwindCSS
-- **Backend:** Node.js, Express.js, MongoDB, React.js, Redux
-- **Databases:** MySQL, MongoDB
-- **Data Science & Analytics:** Pandas, NumPy, Power BI, Tableau
-- **Tools & Platforms:** Git, GitHub, Postman, Docker, Jira
-- **Design & UI:** Figma, Material UI
-- **Other:** TypeScript, EJS, Next.js, AI Tools
+### 💻 Programming Languages
+<p>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-004482?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+</p>
 
----
+### 🌐 Web Development
+<p>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/EJS-8C8C8C?style=for-the-badge&logo=ejs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white" />
+</p>
 
-## 🌐 Connect With Me
+### 🎨 Frontend & UI
+<p>
+  <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
+  <img src="https://img.shields.io/badge/Material_UI-0081CB?style=for-the-badge&logo=mui&logoColor=white" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+</p>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/gupta-aniket5/" target="_blank">
-    <img
-      alt="LinkedIn"
-      src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"
-    />
-  </a>
-  <a href="mailto:aniketkumargupta302@gmail.com">
-    <img
-      alt="Email"
-      src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"
-    />
-  </a>
-  <a href="https://youtube.com/@tech_aniket" target="_blank">
-    <img
-      alt="YouTube"
-      src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=youtube&logoColor=white"
-    />
-  </a>
+### 🗄️ Databases & Analytics
+<p>
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
+</p>
+
+### 🛠️ Tools & Platforms
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" />
 </p>
 
 ---
 
-## 💻 Tech & Tools
+## 📊 GitHub Stats
 
-<p align="center">
-  <img
-    src="https://skillicons.dev/icons?i=c,cpp,java,python,php,html,css,js,ts,react,nextjs,nodejs,express,mongodb,mysql,tailwind,bootstrap,ejs,redux,git,github,postman,docker,figma,vite,materialui,linux,vercel,vscode,powershell,render,npm,jira"
-  />
-  <br><br>
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
-</p>
+<div align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Aniketgupta4&show_icons=true&theme=catppuccin_mocha&hide_border=false&include_all_commits=true" />
+  <img width="48%" src="https://nirzak-streak-stats.vercel.app/?user=Aniketgupta4&theme=catppuccin_mocha&hide_border=false" />
+</div>
 
----
-
-## 📌 Featured Projects
-
-- 🚲 **Bike Rental System (MERN)** – Real-time booking, authentication & role-based access  
-- 📝 **Notes App (MEN Stack)** – Secure login & private notes management  
-- 📊 **Data Analysis Projects** – Data cleaning, visualization & dashboards  
-- 🌳 **DSA Visualizer** – Animated Trees, Graphs, BFS & DFS with multi-language support  
-
-👉 *More projects available in pinned repositories*
-
----
-
-## 📊 GitHub Stats & Activity
-
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=Aniketgupta4&theme=catppuccin_mocha&hide_border=false&include_all_commits=true&count_private=true"
-  />
-  <br><br>
-  <img
-    src="https://nirzak-streak-stats.vercel.app/?user=Aniketgupta4&theme=catppuccin_mocha&hide_border=false"
-  />
-  <br><br>
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aniketgupta4&theme=catppuccin_mocha&hide_border=false&layout=compact"
-  />
-</p>
+<div align="center">
+  <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aniketgupta4&layout=compact&theme=catppuccin_mocha&hide_border=false" />
+</div>
 
 ---
 
 ## 🧠 LeetCode Progress
 
 <p align="center">
-  <img
-    src="https://img.shields.io/badge/LeetCode%20Solved-250%2B-success?style=for-the-badge&logo=leetcode&logoColor=white"
-    alt="LeetCode Solved"
-  />
+  <img src="https://img.shields.io/badge/LeetCode%20Solved-250%2B-success?style=for-the-badge&logo=leetcode&logoColor=white" />
   <br><br>
   <a href="https://leetcode.com/u/Aniket_gupta_/" target="_blank">
-    <img
-      src="https://leetcard.jacoblin.cool/Aniket_gupta_?theme=dark&font=Karma&ext=heatmap"
-      alt="LeetCode Stats"
-    />
+    <img src="https://leetcard.jacoblin.cool/Aniket_gupta_?theme=dark&font=Karma&ext=heatmap" />
   </a>
 </p>
 
@@ -128,34 +114,32 @@
 
 ## 🏆 GitHub Trophies
 
-<p align="center">
-  <img
-    src="https://github-profile-trophy.vercel.app/?username=Aniketgupta4&theme=blue-green&no-frame=false&no-bg=true&margin-w=4"
-  />
-</p>
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Aniketgupta4&theme=blue-green&no-frame=false&margin-w=4&row=2&column=4" />
+</div>
 
 ---
 
-## ✍️ Dev Quote
+## 📫 Connect With Me
 
-<p align="center">
-  <img
-    src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko"
-  />
-</p>
+<div align="center">
 
----
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gupta-aniket5/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/Aniket_gupta_/)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@tech_aniket)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aniketkumargupta302@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Aniketgupta4)
 
-## 🔝 Top Contributed Repositories
-
-<p align="center">
-  <img
-    src="https://github-contributor-stats.vercel.app/api?username=Aniketgupta4&limit=5&theme=neon&combine_all_yearly_contributions=true"
-  />
-</p>
+</div>
 
 ---
 
-<p align="center">
-  <strong>💖 THANK YOU FOR VISITING MY PROFILE 💖</strong>
-</p>
+<div align="center">
+
+### 💡 *"Consistency beats talent when talent doesn’t work consistently."*
+
+⭐️ From **Aniket Gupta**
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
