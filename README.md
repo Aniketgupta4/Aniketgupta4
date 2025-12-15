@@ -37,7 +37,7 @@
 
 ### 🛠 Backend Development
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,ejs,jwt,postman,npm&perline=6" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,postman,npm&perline=6" />
 </p>
 
 ### 🗄 Databases
