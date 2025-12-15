@@ -86,6 +86,7 @@ I love building full-stack web applications and aim to become a <strong>skilled 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aniketgupta4&layout=compact&theme=catppuccin_mocha" />
 </p>
 
+
 ---
 
 ## 🧠 LeetCode Progress
@@ -103,7 +104,7 @@ I love building full-stack web applications and aim to become a <strong>skilled 
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Aniketgupta4&theme=blue-green&no-frame=false&no-bg=true&margin-w=4" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Aniketgupta4&theme=radical&margin-w=8" />
 </p>
 
 ---
