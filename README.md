@@ -79,11 +79,11 @@ I love building full-stack web applications and aim to become a <strong>skilled 
 ## 📊 GitHub Stats & Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Aniketgupta4&theme=catppuccin_mocha&hide_border=false&include_all_commits=true&count_private=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Aniketgupta4&theme=catppuccin_mocha&show_icons=true" />
   <br><br>
-  <img src="https://nirzak-streak-stats.vercel.app/?user=Aniketgupta4&theme=catppuccin_mocha&hide_border=false" />
+  <img src="https://nirzak-streak-stats.vercel.app/?user=Aniketgupta4&theme=catppuccin_mocha" />
   <br><br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aniketgupta4&theme=catppuccin_mocha&hide_border=false&layout=compact" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aniketgupta4&layout=compact&theme=catppuccin_mocha" />
 </p>
 
 ---
