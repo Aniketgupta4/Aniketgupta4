@@ -13,13 +13,13 @@
 
 ## ⚙️ Tech Stack
 
-- **Programming:** Java (DSA), C, C++, PHP, Python (NumPy, Pandas)
-- **Frontend:** HTML, CSS, JavaScript, Bootstrap, Tailwind CSS
-- **Backend:** Node.js, Express.js, React.js, Redux
-- **Databases:** MongoDB, MySQL
-- **Tools & Platforms:** Git, GitHub, Postman, Docker, Jira
-- **Design & Analytics:** Figma, UI/UX, Material UI, Power BI, Tableau
-- **Other:** TypeScript, EJS, Next.js, AI Tools
+- **Programming:** Java (DSA), C, C++, PHP, Python  
+- **Frontend:** HTML, CSS, JavaScript, Bootstrap, Tailwind CSS  
+- **Backend:** Node.js, Express.js, React.js, Redux  
+- **Databases:** MongoDB, MySQL , Redis
+- **Tools & Platforms:** Git, GitHub, Postman, Docker, Jira  
+- **Design & Analytics:** Figma, UI/UX, Material UI, Power BI, Tableau , Excel 
+- **Data Science & AI:** Python, NumPy, Pandas, Matplotlib, Seaborn, Scikit-learn, TensorFlow, Machine Learning, Deep Learning, AI
 
 ---
 
@@ -37,7 +37,7 @@
 
 ### 🛠 Backend Development
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,ejs&perline=6" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,ejs,jwt,postman,npm&perline=6" />
 </p>
 
 ### 🗄 Databases
