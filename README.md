@@ -52,22 +52,21 @@
 
 ---
 
+<h2 >
+    <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> 
+    Let's Connect
+</h2>
+
 <p align="center">
-  <a href="mailto:tkg21430@gmail.com">
+  <a href="mailto:aniketkumargupta302@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
-  <a href="https://linkedin.com/in/tarun-gupta-100a1b259">
+  <a href="https://www.linkedin.com/in/gupta-aniket5/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://discord.gg/tarungupta18">
-    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
-  </a>
-  <a href="https://instagram.com/tarungupta_11">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 </p>
 
-- 📫 How to reach me **tkg21430@gmail.com**
+- 📫 How to reach me **aniketkumargupta302@gmail.com**
 
 
 ---
