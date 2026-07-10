@@ -167,6 +167,8 @@ An intelligent Retrieval-Augmented Generation application utilizing embeddings, 
 
 </p>
 
+<br><br>
+
 <h2 align="center">📊 GitHub Stats & Activity</h2>
 
 <p align="center">
