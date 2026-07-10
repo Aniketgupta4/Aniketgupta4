@@ -25,10 +25,6 @@
 
 <img src="https://user-images.githubusercontent.com/74038190/212750317-33c7d278-0e60-4f3d-b8df-1df0b801c0d8.gif" width="100%">
 
-<!-- =============================== -->
-<!--            ABOUT ME             -->
-<!-- =============================== -->
-
 <h2 align="center">👨‍💻 About Me</h2>
 
 - 🎓 3rd-Year B.Tech CSE student at Shriram Institute of Technology (SRIT), Jabalpur
@@ -40,10 +36,6 @@
 - 💼 Open to **SDE, Full-Stack, AI/ML, and Data Analytics** internship opportunities
 
 <br>
-
-<!-- =============================== -->
-<!--          TECH STACK             -->
-<!-- =============================== -->
 
 <h2 align="center">⚙️ Tech Stack</h2>
 
@@ -82,10 +74,6 @@
 
 <img src="https://user-images.githubusercontent.com/74038190/212750317-33c7d278-0e60-4f3d-b8df-1df0b801c0d8.gif" width="100%">
 
-<!-- =============================== -->
-<!--        PROJECT SHOWCASE         -->
-<!-- =============================== -->
-
 <h2 align="center">🚀 Project Showcase</h2>
 
 <h3 align="center">🚴 BRMS — Bike Rental Management System</h3>
@@ -94,13 +82,12 @@ A full-stack SaaS platform for bike rentals with role-based access control, inte
 </p>
 
 <p align="center">
-  <!-- Replace the src below with a real screenshot from your repo, e.g. ./assets/brms.png -->
   <img src="https://via.placeholder.com/900x350/0B2545/FFFFFF?text=BRMS+Screenshot+%E2%80%94+Add+Your+Project+Image" width="100%"/>
 </p>
 
 <div align="center">
-  <a href="#"><img src="https://img.shields.io/badge/🚀%20Live%20Demo-1F6FEB?style=for-the-badge"/></a>&nbsp;
-  <a href="#"><img src="https://img.shields.io/badge/💻%20Source%20Code-181717?style=for-the-badge&logo=github"/></a>
+  <a href="https://bike-rentals-7ijq.onrender.com"><img src="https://img.shields.io/badge/🚀%20Live%20Demo-1F6FEB?style=for-the-badge"/></a>&nbsp;
+  <a href="https://github.com/Aniketgupta4/Bike_Rental"><img src="https://img.shields.io/badge/💻%20Source%20Code-181717?style=for-the-badge&logo=github"/></a>
 </div>
 
 <p align="center"><b>Key Features:</b> Role-Based Access • Razorpay Payments • AI Assistant • Responsive UI</p>
@@ -117,13 +104,12 @@ A comprehensive Learning Management and ERP system structured to manage data flo
 </p>
 
 <p align="center">
-  <!-- Replace with a real screenshot, e.g. ./assets/lms.png -->
   <img src="https://via.placeholder.com/900x350/0B2545/FFFFFF?text=LMS+College+ERP+%E2%80%94+Add+Your+Project+Image" width="100%"/>
 </p>
 
 <div align="center">
-  <a href="#"><img src="https://img.shields.io/badge/🚀%20Live%20Demo-1F6FEB?style=for-the-badge"/></a>&nbsp;
-  <a href="#"><img src="https://img.shields.io/badge/💻%20Source%20Code-181717?style=for-the-badge&logo=github"/></a>
+  <a href="https://lms-4rsa.onrender.com"><img src="https://img.shields.io/badge/🚀%20Live%20Demo-1F6FEB?style=for-the-badge"/></a>&nbsp;
+  <a href="https://github.com/Aniketgupta4/lms"><img src="https://img.shields.io/badge/💻%20Source%20Code-181717?style=for-the-badge&logo=github"/></a>
 </div>
 
 <p align="center">
@@ -138,13 +124,12 @@ A robust SaaS solution featuring multi-tenant architecture, detailed member regi
 </p>
 
 <p align="center">
-  <!-- Replace with a real screenshot, e.g. ./assets/gympro.png -->
   <img src="https://via.placeholder.com/900x350/0B2545/FFFFFF?text=GymPro+System+%E2%80%94+Add+Your+Project+Image" width="100%"/>
 </p>
 
 <div align="center">
-  <a href="#"><img src="https://img.shields.io/badge/🚀%20Live%20Demo-1F6FEB?style=for-the-badge"/></a>&nbsp;
-  <a href="#"><img src="https://img.shields.io/badge/💻%20Source%20Code-181717?style=for-the-badge&logo=github"/></a>
+  <a href="https://gym-pro-pyc7.onrender.com"><img src="https://img.shields.io/badge/🚀%20Live%20Demo-1F6FEB?style=for-the-badge"/></a>&nbsp;
+  <a href="https://github.com/Aniketgupta4/Gym_pro"><img src="https://img.shields.io/badge/💻%20Source%20Code-181717?style=for-the-badge&logo=github"/></a>
 </div>
 
 <p align="center">
@@ -159,7 +144,8 @@ An intelligent Retrieval-Augmented Generation application utilizing embeddings, 
 </p>
 
 <div align="center">
-  <a href="#"><img src="https://img.shields.io/badge/💻%20Source%20Code-181717?style=for-the-badge&logo=github"/></a>
+  <a href="https://rag-pdf-2hxf.onrender.com/login.html"><img src="https://img.shields.io/badge/🚀%20Live%20Demo-1F6FEB?style=for-the-badge"/></a>&nbsp;
+  <a href="https://github.com/Aniketgupta4/RAG_PDF"><img src="https://img.shields.io/badge/💻%20Source%20Code-181717?style=for-the-badge&logo=github"/></a>
 </div>
 
 <p align="center">
@@ -172,10 +158,6 @@ An intelligent Retrieval-Augmented Generation application utilizing embeddings, 
 
 <img src="https://user-images.githubusercontent.com/74038190/212750317-33c7d278-0e60-4f3d-b8df-1df0b801c0d8.gif" width="100%">
 
-<!-- =============================== -->
-<!--       CURRENTLY LEARNING        -->
-<!-- =============================== -->
-
 <h2 align="center">🌱 Currently Learning</h2>
 
 <p align="center">
@@ -187,31 +169,15 @@ An intelligent Retrieval-Augmented Generation application utilizing embeddings, 
 
 </p>
 
-<!-- =============================== -->
-<!--         GITHUB STATS            -->
-<!-- =============================== -->
-
 <h2 align="center">📊 GitHub Stats & Activity</h2>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Aniketgupta4&theme=tokyonight&show_icons=true&hide_border=true&count_private=true"/>
-</p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=Aniketgupta4&theme=tokyonight&hide_border=true"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aniketgupta4&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
-
-<p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Aniketgupta4&theme=tokyo-night&hide_border=true"/>
 </p>
-
-<!-- =============================== -->
-<!--         LEETCODE STATS          -->
-<!-- =============================== -->
 
 <h2 align="center">🧠 LeetCode Progress</h2>
 
@@ -225,17 +191,9 @@ An intelligent Retrieval-Augmented Generation application utilizing embeddings, 
   </a>
 </p>
 
-<!-- =============================== -->
-<!--           DEV QUOTE             -->
-<!-- =============================== -->
-
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
 </p>
-
-<!-- =============================== -->
-<!--         LET'S CONNECT           -->
-<!-- =============================== -->
 
 <h2 align="center">🤝 Let's Connect</h2>
 
