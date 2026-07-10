@@ -31,12 +31,14 @@
 
 <h2 align="center">👨‍💻 About Me</h2>
 
-- 🎓 3rd-Year **B.Tech CSE** student at **Shriram Institute of Technology (SRIT), Jabalpur**
-- 💻 Full Stack Developer specializing in the **MERN Stack**
-- 🤖 Building **AI-powered web applications** — payment gateways, chatbots, and automation tools
-- 🧠 Sharpening problem-solving skills with **Data Structures & Algorithms** (250+ LeetCode problems solved)
-- 🚀 Comfortable across **frontend, backend, databases, and cloud/AI integration**
-- 💼 **Actively seeking Software Engineering / Full Stack Development internships**
+- 🎓 4th-Year B.Tech CSE student at Shriram Institute of Technology (SRIT), Jabalpur
+- 💻 Full Stack Developer specializing in the MERN Stack
+- 🤖 Building AI-powered web applications — Chatbots, RAG Systems, and AI Automation Tools
+- 📊 Skilled in Data Analytics using Python, SQL, Pandas, NumPy, Matplotlib, and Power BI
+- 🧠 Hands-on experience in Machine Learning, Deep Learning, Generative AI, LLMs, LangChain, LangGraph, and Pinecone
+- 🧩 Strengthening problem-solving skills through Data Structures & Algorithms
+- 🚀 Comfortable across frontend, backend, databases, cloud tools, and AI integration
+- 💼 Actively seeking Software Engineering, Full Stack Development, AI/ML, and Data Analytics internship opportunities
 
 <br>
 
