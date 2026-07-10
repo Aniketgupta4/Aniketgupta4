@@ -82,7 +82,7 @@ A full-stack SaaS platform for bike rentals with role-based access control, inte
 </p>
 
 <p align="center">
-  <img src="https://via.placeholder.com/900x350/0B2545/FFFFFF?text=BRMS+Screenshot+%E2%80%94+Add+Your+Project+Image" width="100%"/>
+  <img src="bikerental.png" width="100%"/>
 </p>
 
 <div align="center">
@@ -104,7 +104,7 @@ LearnAI is an AI-powered MERN-stack LMS that leverages Generative AI to deliver 
 </p>
 
 <p align="center">
-  <img src="https://via.placeholder.com/900x350/0B2545/FFFFFF?text=LMS+College+ERP+%E2%80%94+Add+Your+Project+Image" width="100%"/>
+  <img src="lms.png" width="100%"/>
 </p>
 
 <div align="center">
@@ -124,7 +124,7 @@ A robust SaaS solution featuring multi-tenant architecture, detailed member regi
 </p>
 
 <p align="center">
-  <img src="https://via.placeholder.com/900x350/0B2545/FFFFFF?text=GymPro+System+%E2%80%94+Add+Your+Project+Image" width="100%"/>
+  <img src="gym.png" width="100%"/>
 </p>
 
 <div align="center">
