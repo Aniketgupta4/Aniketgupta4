@@ -217,7 +217,7 @@ An intelligent Retrieval-Augmented Generation application utilizing embeddings, 
 
 <p align="center">💼 Open to <b>Software Engineering</b> and <b>MERN-AI Stack Development</b> and <b>Data Science </b> internship opportunities.</p>
 
-<p align="center"><strong>💖 Thanks for stopping by! 💖</strong></p>
+<p align="center"><strong>💖 Thanks for 💖</strong></p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B2545,50:1F6FEB,100:4C9AFF&height=120&section=footer"/>
 </div>
