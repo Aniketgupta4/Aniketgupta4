@@ -34,7 +34,7 @@
 - 🎓 3rd-Year B.Tech CSE student at Shriram Institute of Technology (SRIT), Jabalpur
 - 💻 Full-Stack Developer with the **MERN Stack**
 - 🤖 Building AI-powered applications, chatbots, RAG systems, and automation tools
-- 📊 Exploring Data Science & Analytics using **Python (NPMS), SQL, Power BI, and Machine Learning, Deep Learning, GenAI**
+- 📊 Exploring Data Science & Analytics using **Python (Pandas, NumPy, Matplotlib, Seaborn), SQL, and Machine Learning**
 - 🧠 Improving problem-solving through **Data Structures & Algorithms** (250+ Leetcode)
 - 🚀 Interested in scalable software, backend engineering, and AI-driven solutions
 - 💼 Open to **SDE, Full-Stack, AI/ML, and Data Analytics** internship opportunities
@@ -90,7 +90,7 @@
 
 <h3 align="center">🚴 BRMS — Bike Rental Management System</h3>
 <p align="center">
-A full-stack SaaS platform for bike rentals with 3-tier role-based access control, Razorpay payment integration, and an AI-powered chatbot (BikeBot) built with Google Gemini.
+A full-stack SaaS platform for bike rentals with role-based access control, integrated payments, and an AI-powered assistant for handling availability queries.
 </p>
 
 <p align="center">
@@ -103,7 +103,7 @@ A full-stack SaaS platform for bike rentals with 3-tier role-based access contro
   <a href="#"><img src="https://img.shields.io/badge/💻%20Source%20Code-181717?style=for-the-badge&logo=github"/></a>
 </div>
 
-<p align="center"><b>Key Features:</b> Role-Based Access (Admin/Owner/Customer) • Razorpay Payments • Gemini AI Chatbot • Responsive UI</p>
+<p align="center"><b>Key Features:</b> Role-Based Access • Razorpay Payments • AI Assistant • Responsive UI</p>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,html,css,js&perline=6"/>
@@ -111,59 +111,59 @@ A full-stack SaaS platform for bike rentals with 3-tier role-based access contro
 
 ---
 
-<h3 align="center">🎯 ATS Resume Analyzer</h3>
+<h3 align="center">🏫 LMS — Four-Tier College ERP System</h3>
 <p align="center">
-An AI-driven tool that scores resumes against job descriptions, highlights missing keywords, and gives actionable suggestions to improve ATS compatibility.
+A comprehensive Learning Management and ERP system structured to manage data flow seamlessly across four tiers: students, teachers, HODs, and principals.
 </p>
 
 <p align="center">
-  <!-- Replace with a real screenshot, e.g. ./assets/ats-analyzer.png -->
-  <img src="https://via.placeholder.com/900x350/0B2545/FFFFFF?text=ATS+Resume+Analyzer+%E2%80%94+Add+Your+Project+Image" width="100%"/>
+  <!-- Replace with a real screenshot, e.g. ./assets/lms.png -->
+  <img src="https://via.placeholder.com/900x350/0B2545/FFFFFF?text=LMS+College+ERP+%E2%80%94+Add+Your+Project+Image" width="100%"/>
 </p>
 
 <div align="center">
   <a href="#"><img src="https://img.shields.io/badge/🚀%20Live%20Demo-1F6FEB?style=for-the-badge"/></a>&nbsp;
+  <a href="#"><img src="https://img.shields.io/badge/💻%20Source%20Code-181717?style=for-the-badge&logo=github"/></a>
+</div>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb&perline=6"/>
+</p>
+
+---
+
+<h3 align="center">🏋️ GymPro — Multi-Tenant Gym Management System</h3>
+<p align="center">
+A robust SaaS solution featuring multi-tenant architecture, detailed member registration, membership tracking, and an integrated AI-powered bot for administrative assistance.
+</p>
+
+<p align="center">
+  <!-- Replace with a real screenshot, e.g. ./assets/gympro.png -->
+  <img src="https://via.placeholder.com/900x350/0B2545/FFFFFF?text=GymPro+System+%E2%80%94+Add+Your+Project+Image" width="100%"/>
+</p>
+
+<div align="center">
+  <a href="#"><img src="https://img.shields.io/badge/🚀%20Live%20Demo-1F6FEB?style=for-the-badge"/></a>&nbsp;
+  <a href="#"><img src="https://img.shields.io/badge/💻%20Source%20Code-181717?style=for-the-badge&logo=github"/></a>
+</div>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nodejs,mongodb,express&perline=6"/>
+</p>
+
+---
+
+<h3 align="center">🧠 AI-Powered RAG System</h3>
+<p align="center">
+An intelligent Retrieval-Augmented Generation application utilizing embeddings, vector databases, and Generative AI APIs to deliver highly accurate and context-aware responses.
+</p>
+
+<div align="center">
   <a href="#"><img src="https://img.shields.io/badge/💻%20Source%20Code-181717?style=for-the-badge&logo=github"/></a>
 </div>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,react,nodejs&perline=6"/>
-</p>
-
----
-
-<h3 align="center">📋 AI-Powered Smart Attendance System</h3>
-<p align="center">
-An automated attendance system using facial recognition to mark and track attendance, reducing manual effort and proxy attendance.
-</p>
-
-<p align="center">
-  <!-- Replace with a real screenshot, e.g. ./assets/attendance.png -->
-  <img src="https://via.placeholder.com/900x350/0B2545/FFFFFF?text=Smart+Attendance+System+%E2%80%94+Add+Your+Project+Image" width="100%"/>
-</p>
-
-<div align="center">
-  <a href="#"><img src="https://img.shields.io/badge/🚀%20Live%20Demo-1F6FEB?style=for-the-badge"/></a>&nbsp;
-  <a href="#"><img src="https://img.shields.io/badge/💻%20Source%20Code-181717?style=for-the-badge&logo=github"/></a>
-</div>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,opencv,flask&perline=6"/>
-</p>
-
----
-
-<h3 align="center">🎨 Neural Style Transfer</h3>
-<p align="center">
-A deep learning project that applies the artistic style of one image onto the content of another using convolutional neural networks.
-</p>
-
-<div align="center">
-  <a href="#"><img src="https://img.shields.io/badge/💻%20Source%20Code-181717?style=for-the-badge&logo=github"/></a>
-</div>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch&perline=6"/>
 </p>
 
 <br>
@@ -188,7 +188,7 @@ A deep learning project that applies the artistic style of one image onto the co
 </p>
 
 <!-- =============================== -->
-<!--          GITHUB STATS           -->
+<!--         GITHUB STATS            -->
 <!-- =============================== -->
 
 <h2 align="center">📊 GitHub Stats & Activity</h2>
@@ -226,7 +226,7 @@ A deep learning project that applies the artistic style of one image onto the co
 </p>
 
 <!-- =============================== -->
-<!--            DEV QUOTE            -->
+<!--           DEV QUOTE             -->
 <!-- =============================== -->
 
 <p align="center">
@@ -234,7 +234,7 @@ A deep learning project that applies the artistic style of one image onto the co
 </p>
 
 <!-- =============================== -->
-<!--          LET'S CONNECT          -->
+<!--         LET'S CONNECT           -->
 <!-- =============================== -->
 
 <h2 align="center">🤝 Let's Connect</h2>
@@ -256,3 +256,4 @@ A deep learning project that applies the artistic style of one image onto the co
 <p align="center"><strong>💖 Thanks for stopping by! 💖</strong></p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B2545,50:1F6FEB,100:4C9AFF&height=120&section=footer"/>
+</div>
