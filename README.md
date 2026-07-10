@@ -31,15 +31,14 @@
 
 <h2 align="center">👨‍💻 About Me</h2>
 
-- 🎓 4th-Year B.Tech CSE student at Shriram Institute of Technology (SRIT), Jabalpur
-- 💻 Full Stack Developer specializing in the MERN Stack
-- 🤖 Building AI-powered web applications — Chatbots, RAG Systems, and AI Automation Tools
-- 📊 Skilled in Data Analytics using Python, SQL, Pandas, NumPy, Matplotlib, and Power BI
-- 🧠 Hands-on experience in Machine Learning, Deep Learning, Generative AI, LLMs, LangChain, LangGraph, and Pinecone
-- 🧩 Strengthening problem-solving skills through Data Structures & Algorithms
-- 🚀 Comfortable across frontend, backend, databases, cloud tools, and AI integration
-- 💼 Actively seeking Software Engineering, Full Stack Development, AI/ML, and Data Analytics internship opportunities
-
+- 🎓 **3rd-Year B.Tech CSE** student at **Shriram Institute of Technology (SRIT), Jabalpur**
+- 💻 **Full-Stack Developer** specializing in the **MERN Stack**
+- 🤖 Building **AI-powered applications** including **chatbots, RAG systems, payment gateway integrations, and automation tools**
+- 📊 Passionate about **Data Science & Analytics**, leveraging **Python, SQL, Pandas, NumPy, Matplotlib, and Power BI**
+- 🧠 Exploring **Machine Learning, Deep Learning, and Generative AI** with **LLMs, LangChain, LangGraph, RAG, and Pinecone**
+- 🧩 Strengthening problem-solving skills through **Data Structures & Algorithms**
+- 🚀 Comfortable across **frontend, backend, databases, APIs, and AI integration**
+- 💼 **Open to Software Engineering (SDE), Full-Stack, AI/ML, and Data Analytics Internship opportunities**
 <br>
 
 <!-- =============================== -->
