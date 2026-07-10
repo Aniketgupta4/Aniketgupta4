@@ -143,6 +143,10 @@ A robust SaaS solution featuring multi-tenant architecture, detailed member regi
 An intelligent Retrieval-Augmented Generation application utilizing embeddings, vector databases, and Generative AI APIs to deliver highly accurate and context-aware responses.
 </p>
 
+<p align="center">
+  <img src="rag.png" width="100%"/>
+</p>
+
 <div align="center">
   <a href="https://rag-pdf-2hxf.onrender.com/login.html"><img src="https://img.shields.io/badge/🚀%20Live%20Demo-1F6FEB?style=for-the-badge"/></a>&nbsp;
   <a href="https://github.com/Aniketgupta4/RAG_PDF"><img src="https://img.shields.io/badge/💻%20Source%20Code-181717?style=for-the-badge&logo=github"/></a>
