@@ -158,16 +158,18 @@ An intelligent Retrieval-Augmented Generation application utilizing embeddings, 
 
 <img src="https://user-images.githubusercontent.com/74038190/212750317-33c7d278-0e60-4f3d-b8df-1df0b801c0d8.gif" width="100%">
 
+<br>
 <h2 align="center">🌱 Currently Learning</h2>
 
 <p align="center">
 
+<br>
 - ⚙️ Advanced Backend Engineering & System Design
 - ☁️ Kubernetes, CI/CD & Cloud Deployment
 
 </p>
 
-<br><br>
+<br>
 
 <h2 align="center">📊 GitHub Stats & Activity</h2>
 
