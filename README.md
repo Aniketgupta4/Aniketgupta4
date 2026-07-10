@@ -98,9 +98,9 @@ A full-stack SaaS platform for bike rentals with role-based access control, inte
 
 ---
 
-<h3 align="center">🏫 LMS — Four-Tier College ERP System</h3>
+<h3 align="center">🏫 LMS - Learning Management System</h3>
 <p align="center">
-A comprehensive Learning Management and ERP system structured to manage data flow seamlessly across four tiers: students, teachers, HODs, and principals.
+LearnAI is an AI-powered MERN-stack LMS that leverages Generative AI to deliver personalized learning roadmaps, intelligent course recommendations, and automated technical assessments within a secure, role-based educational environment.
 </p>
 
 <p align="center">
