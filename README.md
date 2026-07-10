@@ -34,7 +34,7 @@
 - 🎓 3rd-Year B.Tech CSE student at Shriram Institute of Technology (SRIT), Jabalpur
 - 💻 Full-Stack Developer with the **MERN Stack**
 - 🤖 Building AI-powered applications, chatbots, RAG systems, and automation tools
-- 📊 Exploring Data Science & Analytics using **Python, SQL, Pandas, Power BI, and Machine Learning Deep Learning, GenAI**
+- 📊 Exploring Data Science & Analytics using **Python (NPMS), SQL, Power BI, and Machine Learning, Deep Learning, GenAI**
 - 🧠 Improving problem-solving through **Data Structures & Algorithms** (250+ Leetcode)
 - 🚀 Interested in scalable software, backend engineering, and AI-driven solutions
 - 💼 Open to **SDE, Full-Stack, AI/ML, and Data Analytics** internship opportunities
