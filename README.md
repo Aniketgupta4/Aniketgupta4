@@ -163,9 +163,7 @@ An intelligent Retrieval-Augmented Generation application utilizing embeddings, 
 <p align="center">
 
 - ⚙️ Advanced Backend Engineering & System Design
-- 🧩 Data Structures & Algorithms in C++ (Live Course)
-- 🤖 Generative AI Integration & Prompt Engineering
-- ☁️ Docker, CI/CD & Cloud Deployment
+- ☁️ Kubernetes, CI/CD & Cloud Deployment
 
 </p>
 
@@ -209,7 +207,7 @@ An intelligent Retrieval-Augmented Generation application utilizing embeddings, 
   </a>
 </p>
 
-<p align="center">💼 Open to <b>Software Engineering</b> and <b>Full Stack Development</b> internship opportunities.</p>
+<p align="center">💼 Open to <b>Software Engineering</b> and <b>MERN-AI Stack Development</b> and <b>Data Science </b> internship opportunities.</p>
 
 <p align="center"><strong>💖 Thanks for stopping by! 💖</strong></p>
 
